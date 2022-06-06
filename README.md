@@ -1,2 +1,7 @@
 # SpringBootProject
-所有框架与SpringBoot的整合
+SpringBoot框架整合
+- redis
+- SpringSecurity
+- Kafka
+- Dubbo
+- Mybatis
